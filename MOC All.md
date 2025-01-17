@@ -5,6 +5,8 @@
 [[MOC Python libraries]]
 [[MOC SQL]]
 
+[[Подготовка к собеседованию]]
+
 [[My Projects]]
 
 [[Мои ресурсы]]
